@@ -1,0 +1,7 @@
+groq
+speechrecognition
+gTTS
+pygame
+pyaudio
+python-dotenv
+colorama

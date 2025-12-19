@@ -1,0 +1,98 @@
+[
+  {
+    "name": "PM Kisan Samman Nidhi",
+    "hindi_name": "पीएम किसान सम्मान निधि",
+    "min_age": 18,
+    "max_income": 250000,
+    "occupation_match": ["farmer", "kisan", "krishi", "किसान", "खेती", "कृषि"],
+    "details": "छोटे और सीमांत किसान परिवारों को सालाना ₹6,000 की वित्तीय सहायता मिलती है (यदि वे आयकर नहीं देते)।"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "hindi_name": "प्रधानमंत्री फसल बीमा योजना",
+    "min_age": 18,
+    "max_income": 500000,
+    "occupation_match": ["farmer", "kisan", "krishi", "किसान", "खेती", "कृषि"],
+    "details": "फसल खराब होने पर किसानों को बीमा कवरेज और वित्तीय सहायता प्रदान की जाती है।"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (Urban/Rural)",
+    "hindi_name": "प्रधानमंत्री आवास योजना",
+    "min_age": 21,
+    "max_income": 1800000,
+    "occupation_match": ["any"],
+    "details": "घर बनाने के लिए होम लोन पर ब्याज सब्सिडी (EWS/LIG/MIG श्रेणी के लिए)।"
+  },
+  {
+    "name": "MGNREGA",
+    "hindi_name": "मनरेगा (MGNREGA)",
+    "min_age": 18,
+    "max_income": 100000,
+    "occupation_match": ["laborer", "worker", "mazdoor", "shramik", "मजदूर", "श्रमिक", "कामगार"],
+    "details": "ग्रामीण परिवारों को एक वित्तीय वर्ष में कम से कम 100 दिनों के रोजगार की गारंटी।"
+  },
+  {
+    "name": "Ayushman Bharat Yojana",
+    "hindi_name": "आयुष्मान भारत योजना",
+    "min_age": 0,
+    "max_income": 250000,
+    "occupation_match": ["any"],
+    "details": "गरीब और वंचित परिवारों को सालाना 5 लाख रुपये तक का मुफ्त स्वास्थ्य बीमा।"
+  },
+  {
+    "name": "Pradhan Mantri Suraksha Bima Yojana",
+    "hindi_name": "प्रधानमंत्री सुरक्षा बीमा योजना",
+    "min_age": 18,
+    "max_income": 250000,
+    "occupation_match": ["any"],
+    "details": "आर्थिक रूप से कमजोर वर्ग के लिए ₹20 सालाना प्रीमियम पर 2 लाख रुपये का दुर्घटना बीमा।"
+  },
+  {
+    "name": "PM Scholarship Scheme",
+    "hindi_name": "पीएम छात्रवृत्ति योजना",
+    "min_age": 16,
+    "max_income": 600000,
+    "occupation_match": ["student", "chhatra", "vidyarthi", "छात्र", "विद्यार्थी", "पढ़ाई"],
+    "details": "पूर्व सैनिकों और पुलिसकर्मियों के बच्चों को उच्च शिक्षा के लिए छात्रवृत्ति।"
+  },
+  {
+    "name": "National Means-Cum-Merit Scholarship",
+    "hindi_name": "नेशनल मीन्स-कम-मेरिट स्कॉलरशिप",
+    "min_age": 12,
+    "max_income": 150000,
+    "occupation_match": ["student", "chhatra", "vidyarthi", "छात्र", "विद्यार्थी", "पढ़ाई"],
+    "details": "आर्थिक रूप से कमजोर मेधावी छात्रों को पढ़ाई जारी रखने के लिए सालाना ₹12,000 की मदद।"
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (Shishu/Kishore)",
+    "hindi_name": "प्रधानमंत्री मुद्रा योजना",
+    "min_age": 18,
+    "max_income": 1000000,
+    "occupation_match": ["business", "vyapari", "shopkeeper", "entrepreneur", "व्यापारी", "दुकानदार", "बिजनेस", "व्यवसाय"],
+    "details": "छोटे व्यवसायों को शुरू करने या बढ़ाने के लिए बिना गारंटी के लोन।"
+  },
+  {
+    "name": "PM SVANidhi Scheme",
+    "hindi_name": "पीएम स्वनिधि योजना",
+    "min_age": 18,
+    "max_income": 300000,
+    "occupation_match": ["vendor", "hawker", "street vendor", "business", "रेहड़ी", "पटरी", "विक्रेता"],
+    "details": "रेहड़ी-पटरी वालों को काम शुरू करने के लिए ₹10,000 तक का लोन।"
+  },
+  {
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "hindi_name": "प्रधानमंत्री उज्ज्वला योजना",
+    "min_age": 18,
+    "max_income": 250000,
+    "occupation_match": ["women", "mahila", "housewife", "grahlakshmi", "महिला", "गृहिणी", "aurat"],
+    "details": "बीपीएल (BPL) परिवारों की महिलाओं को मुफ्त एलपीजी गैस कनेक्शन।"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "hindi_name": "सुकन्या समृद्धि योजना",
+    "min_age": 0,
+    "max_income": 1000000,
+    "occupation_match": ["any", "parent"],
+    "details": "बालिका के भविष्य के लिए छोटी बचत योजना (केवल मध्यम/निम्न आय वर्ग के लिए अनुशंसित)।"
+  }
+]

@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Virtual Environment (Don't upload this, it's huge)
+venv/
+env/
+
+# Python Cache (Junk files)
+__pycache__/
+*.pyc
+
+# OS Junk
+.DS_Store
