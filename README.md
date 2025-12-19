@@ -38,10 +38,10 @@ The system follows a modular architecture separating the "Brain" (LLM) from the 
 ```mermaid
 graph TD
     User((User)) -- "Voice Input (Hindi)" --> STT[Speech Recognition]
-    STT -- "Text" --> Brain[LLM Planner (Groq/Llama-3)]
+    STT -- "Text" --> Brain["LLM Planner (Groq/Llama-3)"]
     
     subgraph "Agent Reasoning Loop"
-        Brain -- "Analyze Intent" --> Decision{Need Info?}
+        Brain -- "Analyze Intent" --> Decision{"Need Info?"}
         Decision -- "Yes (Missing Age/Income)" --> Brain
         Decision -- "No (Have Data)" --> ToolCall[Execute Tool]
         
